@@ -1,5 +1,5 @@
 This is Zef's test repo
 =======================
-Sup all!
+This is where all my test stuff goes.
 
 -- Zef
