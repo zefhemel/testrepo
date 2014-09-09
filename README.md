@@ -6,4 +6,6 @@ Change from Windows Chrome App.
 
 And this from the Windows Standalone app.
 
+And this is from Chrome app on Linux.
+
 -- Zef
