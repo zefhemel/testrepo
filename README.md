@@ -4,7 +4,7 @@ This is where all my test stuff goes.
 
 Change from Windows Chrome App.
 
-Abh�ngigkeiten
+Abhängigkeiten and Der schöne Tag 
 
 And this from the Windows Standalone app.
 
